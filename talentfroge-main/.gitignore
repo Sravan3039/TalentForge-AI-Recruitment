@@ -1,0 +1,9 @@
+node_modules/
+dist/
+__pycache__/
+venv/
+*.pdf
+*.db
+uploads/
+resumes/
+.env
